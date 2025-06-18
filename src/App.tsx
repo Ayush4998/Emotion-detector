@@ -114,7 +114,7 @@ function App() {
         {/* Footer */}
         <footer className="text-center py-6 px-4">
           <p className="text-white/40 text-sm">
-            Try the examples above or enter your own sentence to see its emotional breakdown
+            Try the examples above or enter your own sentence to see its emotional breakdown — built by Ayush Goswami
           </p>
         </footer>
       </div>
